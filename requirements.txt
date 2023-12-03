@@ -1,0 +1,5 @@
+elasticdeform
+numpy
+scipy
+torch
+visdom

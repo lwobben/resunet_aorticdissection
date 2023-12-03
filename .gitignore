@@ -1,0 +1,6 @@
+**/*.DS_Store
+venv
+weights/
+loss_and_dice/
+dices_totalscan/
+logs/
